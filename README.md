@@ -4,11 +4,11 @@ This repository contains a Gradio-based web application for retrieving landmark 
 
 Team
 
-Elena Papakosta
+-Elena Papakosta
 
-Ramy Anka
+-Ramy Anka
 
-Nouhaila Elmalouli
+-Nouhaila Elmalouli
 
 Files
 
