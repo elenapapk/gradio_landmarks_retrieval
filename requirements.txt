@@ -1,0 +1,5 @@
+gradio
+openai==0.28
+requests
+PILLOW
+IPython
