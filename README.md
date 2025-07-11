@@ -5,7 +5,9 @@ This repository contains a Gradio-based web application for retrieving landmark 
 Team
 
 Elena Papakosta
+
 Ramy Anka
+
 Nouhaila Elmalouli
 
 Files
